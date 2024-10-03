@@ -1,4 +1,4 @@
-gitpod-locally
+gitpod-localement
 
 # Gitpod localement
 
