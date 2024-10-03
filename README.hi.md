@@ -6,7 +6,7 @@
 
 "रन-जीपी" पर आधारित<https://github.com/gitpod-io/run-gp>
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
