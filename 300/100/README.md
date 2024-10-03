@@ -7,9 +7,9 @@
 > 
 > Otherwise you won't be able to just execute the `run-gp` command. If you download the release using `curl` in a terminal, MacOS will just let you execute the binary. ```$ curl -L https://github.com/gitpod-io/run-gp/releases/download/v0.1.7/run-gp_0.1.7_Darwin_amd64 > run-gp```
 >
-> Move the executable to the Applications directory: ```$ mv run-gp /Applications/run-gp```
+> Move the executable to the ```usr/local/bin``` directory: ```$ mv run-gp /usr/local/bin/run-gp```
 >
-> Go to the Applications directory: ```$ cd /Applications```
+> Go to the directory: ```$ cd /usr/local/bin```
 > 
 > Run the following command to set the file's executable bit using the chmod command: ```$ chmod +x ./run-gp```
 >
@@ -19,19 +19,11 @@
 > 1) Install [Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/install/) or use ```$ brew install homebrew/cask/docker```.
 > 2) Run it and pass admin credentials to start everything
 >
-> Then you can run it with ```$ /Applications/run-gp```. Try ```$ /Applications/run-gp --help``` for details instructions.
+> Then you can run it with ```$ /usr/local/bin/run-gp```. Try ```$ /usr/local/bin/run-gp --help``` for details instructions.
 >
-> To [Add the run-gp executable to the PATH variable](https://pimylifeup.com/macos-path-environment-variable/), create a new file within the “/etc/paths.d” directory: ```$ sudo nano /etc/paths.d/run-gp```
+> There is no need to [Add the run-gp executable to the PATH variable](https://pimylifeup.com/macos-path-environment-variable/) as the /usr/local/bin directory is already pat of the PATH variable.
 >
-> Now, inside the newly created file ```run-gp``` you simply need to add the path that you want added to your macOS path environment variable: ```/Applications/run-gp```
->
-> After making these changes, save and quit by pressing CTRL + X, followed by Y, then the ENTER key.
->
-> Now close out of the current terminal session and open a new one.
->
-> The changes won’t affect anything currently running as they need to re-read the path environment variable.
->
-> With a new terminal session open, let us check the contents of the macOS path environment variable by using the command: ```$ echo $PATH```
+> So, you can run ```run-gp``` from any directory on your Mac.
 >
 > Alternatively, you can head over to the `Security` system settings and allow the binary to run once MacOS denied this on the first attempt.
 
