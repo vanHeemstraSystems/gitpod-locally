@@ -19,7 +19,7 @@
 > 1) Install [Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/install/) or use ```$ brew install homebrew/cask/docker```.
 > 2) Run it and pass admin credentials to start everything
 >
-> Then you can run it with ```$ ./run-gp```
+> Then you can run it with ```$ /Applications/run-gp```. Try ```$ /Applications/run-gp --help``` for details instructions.
 >
 > To [Add the run-gp executable to the PATH variable](https://pimylifeup.com/macos-path-environment-variable/), create a new file within the “/etc/paths.d” directory: ```$ sudo nano /etc/paths.d/run-gp```
 >
