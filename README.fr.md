@@ -4,7 +4,7 @@ gitpod-localement
 
 > Exécutez un espace de travail local à l'aide du .gitpod.yml
 
-Based on "run-gp" at <https://github.com/gitpod-io/run-gp>
+Basé sur "run-gp" sur<https://github.com/gitpod-io/run-gp>
 
 ## 100 - Introduction
 
