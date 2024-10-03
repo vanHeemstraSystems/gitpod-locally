@@ -1,14 +1,16 @@
-भंडार-नाम
+गिटपोड-स्थानीय रूप से
 
-# भंडार का नाम
+# Gitpod स्थानीय रूप से
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+> .gitpod.yml का उपयोग करके स्थानीय कार्यस्थान चलाएँ
 
-## 100 - Introduction
+"रन-जीपी" पर आधारित<https://github.com/gitpod-io/run-gp>
 
-See [README.md](./100/README.md)
+## 100 - परिचय
 
-## 200 - आवश्यकताएँ
+देखना[README.md](./100/README.md)
+
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
