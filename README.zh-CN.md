@@ -1,10 +1,10 @@
 gitpod-本地
 
-# Gitpod Locally
+# 本地 Gitpod
 
 > 使用 .gitpod.yml 运行本地工作区
 
-Based on "run-gp" at <https://github.com/gitpod-io/run-gp>
+基于“run-gp”<https://github.com/gitpod-io/run-gp>
 
 ## 100 - 简介
 
