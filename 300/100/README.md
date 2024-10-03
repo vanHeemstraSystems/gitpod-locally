@@ -13,6 +13,12 @@
 > 
 > Run the following command to set the file's executable bit using the chmod command: ```$ chmod +x ./run-gp```
 >
+> It requires Docker deamon, so make sure you have Docker deamon running.
+>
+> If Docker is not installed:
+> 1) Install [Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/install/) or use ```brew install homebrew/cask/docker```.
+> 2) Run it and pass admin credentials to start everything
+>
 > Then you can run it with ```$ ./run-gp```
 >
 > Alternatively, you can head over to the `Security` system settings and allow the binary to run once MacOS denied this on the first attempt.
