@@ -6,9 +6,9 @@
 
 ## 100- مقدمة
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
