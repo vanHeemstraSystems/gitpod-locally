@@ -6,13 +6,13 @@ gitpod-本地
 
 基于“run-gp”<https://github.com/gitpod-io/run-gp>
 
-## 100 - Introduction
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
