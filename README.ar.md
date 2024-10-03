@@ -4,7 +4,7 @@ gitpod-local
 
 > قم بتشغيل مساحة عمل محلية باستخدام .gitpod.yml
 
-بناءً على "run-gp" at<https://github.com/gitpod-io/run-gp>
+Based on "run-gp" at <https://github.com/gitpod-io/run-gp>
 
 ## 100- مقدمة
 
@@ -16,7 +16,7 @@ gitpod-local
 
 ## 300 – بناء تطبيقنا
 
-يرى[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
