@@ -1,6 +1,6 @@
-gitpod-local
+gitpod-locally
 
-# جيتبود محليا
+# Gitpod Locally
 
 > قم بتشغيل مساحة عمل محلية باستخدام .gitpod.yml
 
