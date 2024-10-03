@@ -1,6 +1,6 @@
 gitpod-localement
 
-# Gitpod Locally
+# Gitpod localement
 
 > Exécutez un espace de travail local à l'aide du .gitpod.yml
 
