@@ -1,12 +1,14 @@
-اسم المستودع
+gitpod-local
 
-# اسم المستودع
+# جيتبود محليا
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+> قم بتشغيل مساحة عمل محلية باستخدام .gitpod.yml
+
+بناءً على "run-gp" at<https://github.com/gitpod-io/run-gp>
 
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
