@@ -1,8 +1,10 @@
-nom du référentiel
+gitpod-localement
 
-# Nom du référentiel
+# Gitpod localement
 
-Basé sur "ABC" à<https://www.abc.com/>
+> Exécutez un espace de travail local à l'aide du .gitpod.yml
+
+Basé sur "run-gp" sur<https://github.com/gitpod-io/run-gp>
 
 ## 100 - Introduction
 
