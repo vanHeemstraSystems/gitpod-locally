@@ -2,7 +2,7 @@ gitpod-本地
 
 # 本地 Gitpod
 
-> Run a local workspace using the .gitpod.yml
+> 使用 .gitpod.yml 运行本地工作区
 
 基于“run-gp”<https://github.com/gitpod-io/run-gp>
 
@@ -18,6 +18,6 @@ gitpod-本地
 
 看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
