@@ -37,4 +37,10 @@ $ run-gp
 
 **Note**: The ```run-gp``` command will use the current working directory as context. To point it to a different directory, use the ```-w``` option.
 
+**Warning**: You may see this error:
+docker: Error response from daemon: Mounts denied: 
+ The path /users/willemvanheemstra/git/go-gin-app is not shared from the host and is not known to Docker.
+ You can configure shared paths from Docker -> Preferences... -> Resources -> File Sharing.
+ See https://docs.docker.com/desktop/mac for more info.
+
 3. Once the workspace is ready, open the URL displayed in the terminal.
