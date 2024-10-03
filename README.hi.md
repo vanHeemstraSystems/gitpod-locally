@@ -4,9 +4,9 @@
 
 "एबीसी" पर आधारित<https://www.abc.com/>
 
-## 100 - परिचय
+## 100 - Introduction
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
