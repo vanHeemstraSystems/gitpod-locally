@@ -43,4 +43,10 @@ docker: Error response from daemon: Mounts denied:
  You can configure shared paths from Docker -> Preferences... -> Resources -> File Sharing.
  See https://docs.docker.com/desktop/mac for more info.
 
+**Warning**: You may encounter this error:
+
+```...driver failed programming external connectivity on endpoint ...```
+
+The read [Docker driver failed programming external connectivity on endpoint](https://www.codingnagger.com/2021/06/28/docker-driver-failed-programming-external-connectivity-on-endpoint/).
+
 3. Once the workspace is ready, open the URL displayed in the terminal.
