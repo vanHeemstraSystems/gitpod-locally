@@ -1,4 +1,4 @@
-gitpod-本地
+gitpod-locally
 
 # 本地 Gitpod
 
@@ -16,7 +16,7 @@ gitpod-本地
 
 ## 300 - 构建我们的应用程序
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 结论
 
