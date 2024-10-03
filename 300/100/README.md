@@ -51,4 +51,10 @@ Follow the advice given. In Docker Deskop on MacOS configure shared paths from D
 
 Then read [Docker driver failed programming external connectivity on endpoint](https://www.codingnagger.com/2021/06/28/docker-driver-failed-programming-external-connectivity-on-endpoint/).
 
+**Warning**: Or you may see this error:
+
+```... Ports are not available: exposing port TCP 0.0.0.0:8080 -> 0.0.0.0:0: listen tcp 0.0.0.0:8080: bind: address already in use.```
+
+Then stop the other Docker container that uses this port (8080), or alternatively provide another port to the application you want to start.
+
 3. Once the workspace is ready, open the URL displayed in the terminal.
