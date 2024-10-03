@@ -1,8 +1,10 @@
-存储库名称
+gitpod-本地
 
-# 存储库名称
+# 本地 Gitpod
 
-基于“ABC”<https://www.abc.com/>
+> 使用 .gitpod.yml 运行本地工作区
+
+基于“run-gp”<https://github.com/gitpod-io/run-gp>
 
 ## 100 - 简介
 
