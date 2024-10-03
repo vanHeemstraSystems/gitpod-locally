@@ -2,6 +2,12 @@
 
 1. Download the [latest release](https://github.com/gitpod-io/run-gp/releases/latest). **Note**: Our Mac Mini with Intel Core i5 processor uses an ```amd64``` architecture.
 > If you're on MacOS you'll need to jump through hoops because the run-gp releases are not signed.
+>
+> MacOS requires that binaries downloaded using a browser must be [signed and notarized](https://developer.apple.com/developer-id/).
+> 
+> Otherwise you won't be able to just execute the `run-gp` command. If you download the release using `curl` in a terminal, MacOS will just let you execute the binary.
+>
+> Alternatively, you can head over to the `Security` system settings and allow the binary to run once MacOS denied this on the first attempt.
 
 2. In a terminal navigate to a directory containing a ```.gitpod.yml``` file, e.g. a Git working copy of a repository, then execute ```run-gp```.
 
