@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+gitpod-locally
+# Gitpod Locally
 
-Based on "ABC" at https://www.abc.com/
+> Run a local workspace using the .gitpod.yml
+
+Based on "run-gp" at https://github.com/gitpod-io/run-gp
 
 ## 100 - Introduction
 
