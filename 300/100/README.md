@@ -6,6 +6,10 @@
 > MacOS requires that binaries downloaded using a browser must be [signed and notarized](https://developer.apple.com/developer-id/).
 > 
 > Otherwise you won't be able to just execute the `run-gp` command. If you download the release using `curl` in a terminal, MacOS will just let you execute the binary. ```$ curl -L https://github.com/gitpod-io/run-gp/releases/download/v0.1.7/run-gp_0.1.7_Darwin_amd64 > run-gp```
+>
+> Move the executable to the Applications directory: ```$ mv run-gp /Applications/run-gp```
+>
+> Go to the Applications directory: ```$ cd /Applications```
 > 
 > Run the following command to set the file's executable bit using the chmod command: ```$ chmod +x ./run-gp```
 >
