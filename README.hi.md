@@ -1,6 +1,6 @@
 गिटपोड-स्थानीय रूप से
 
-# Gitpod स्थानीय रूप से
+# Gitpod Locally
 
 > .gitpod.yml का उपयोग करके स्थानीय कार्यस्थान चलाएँ
 
@@ -20,4 +20,4 @@
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
